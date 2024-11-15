@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Tiago Fernandes and I am a Game Developer Engineer from Portugal.<br><br>- 🔭 I’m looking for a job<br>- 📚 I'm currently learning a bit more about C#<br>- ⚡ In my free time I like exercising and playing games</p>
+<p align="left">My name is Tiago Fernandes and I am a Game Development Engineer from Portugal.<br><br>- 🔭 I’m looking for a job<br>- 📚 I'm currently learning a bit more about C#<br>- ⚡ In my free time I like exercising and playing games</p>
 
 ###
 
