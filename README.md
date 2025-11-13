@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Tiago Fernandes and I am a Game Development Engineer from Portugal.<br><br>- 🔭 I’m currently working @ Casino Espinho as a Machine Technician.<br>- 📚 I'm currently learning more about game development.<br>- ⚡ In my free time I like exercising and playing games</p>
+<p align="left">My name is Tiago Fernandes and I am a Game Developer from Portugal.<br><br>- 🔭 I’m currently working @ Casino Espinho as a Machine Technician.<br>- 📚 Systematically learning more about game development.<br>- ⚡ In my free time I like exercising and playing games</p>
 
 ###
 
