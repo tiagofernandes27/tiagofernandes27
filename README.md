@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Tiago Fernandes and I am a Game Developer based in Portugal.<br><br>- 🔭 I’m currently working @ Vertsa Play as a Godot Game Developer.<br>- 📚 I am systematically learning more about game development.<br>- ⚡ I am a table tennis player, and I like playing board and video games in my free time.</p>
+<p align="left">Welcome! I'm Tiago Fernandes, a Game Developer based in Portugal.<br><br>- 🔭 Currently working @ Vertsa Play as a Godot Game Developer.<br>- 📚 Systematically learning more about game development.<br>- ⚡ Table tennis player and umpire, I love playing board and video games in my free time.</p>
 
 ###
 
